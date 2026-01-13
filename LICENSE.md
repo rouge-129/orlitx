@@ -1,4 +1,5 @@
 ORLITX PROPRIETARY SOURCE & COMPLIANCE LICENSE
+
 [ Preamble ]
 This License Agreement (the "Agreement") is a strict proprietary legal instrument governing the use, access, and distribution of the software Orlitx (the "Software"). The copyright, ownership, operational rights, and all management authority of this Software belong exclusively to ky_hello (hereinafter "the Owner"). This Agreement is designed to protect the Owner's intellectual property and to prevent any unauthorized usage, duplication, or technical derivation. By accessing the Python source code or executing the Software, you (the "Licensee") are legally bound to every clause stipulated herein.
 
